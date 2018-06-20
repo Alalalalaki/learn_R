@@ -99,6 +99,8 @@
 
 [R语言 apply函数家族详解](https://blog.csdn.net/u012730840/article/details/39052423)
 
+[R语言忍者秘笈](https://bookdown.org/yihui/r-ninja/)
+
 [如何高效地学好 R？](https://www.zhihu.com/question/22960102/answer/29618585) [该如何学习 R 语言](https://www.zhihu.com/question/21654166)
 
 [R Markdown Notebook 与 Jupyter / IPython Notebook](https://yihui.name/cn/2017/06/notebooks/#fn:-1) [knitr 与可重复的统计研究（花絮篇）](https://cosx.org/2012/06/reproducible-research-with-knitr)
