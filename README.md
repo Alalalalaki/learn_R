@@ -8,7 +8,7 @@
 
 [Technical Foundations of Informatics ****](https://info201.github.io/)
 
-[政治学方法論 I ***](http://yukiyanai.github.io/jp/classes/rm1/contents/)
+[政治学方法論 I ****](http://yukiyanai.github.io/jp/classes/rm1/contents/)
 
 [To R from Stata: An Introduction](https://rslbliss.shinyapps.io/R_from_Stata/#section-introduction-to-the-tutorial)
 
