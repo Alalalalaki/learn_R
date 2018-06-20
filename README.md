@@ -24,11 +24,9 @@
 
 [グラフ描画ggplot2の辞書的まとめ20のコード ***](https://mrunadon.github.io/ggplot2/) → [blog](https://mrunadon.github.io/)
 
-[［RStan］多項ロジスティックモデルで μ's とAqours の人気の差を調べる ***](http://abrahamcow.hatenablog.com/entry/2017/06/24/154902) → [blog]( http://abrahamcow.hatenablog.com/archive/category/R)
+[RStan 多項ロジスティックモデルで μ's とAqours の人気の差を調べる ***](http://abrahamcow.hatenablog.com/entry/2017/06/24/154902) → [blog]( http://abrahamcow.hatenablog.com/archive/category/R)
 
 [ビジネス実務の現場で有用な統計学・機械学習・データマイニング及びその他のデータ分析手法10+2選（2016年版） ***](https://tjo.hatenablog.com/entry/2016/03/07/080000) [実務の現場に多い時系列データ分析の際に注意しておきたい点を列挙してみる](https://tjo.hatenablog.com/entry/2017/09/22/190000) → [blog](https://tjo.hatenablog.com/archive/category/R)
-
-[［RStan］多項ロジスティックモデルで μ's とAqours の人気の差を調べる ***](http://abrahamcow.hatenablog.com/entry/2017/06/24/154902) → [blog](http://abrahamcow.hatenablog.com/archive/category/R)
 
 [Rによるデータクリーニング実践――政府統計からのグラフ作成を例として](http://id.fnshr.info/2018/04/23/r-data-cleaning-school/) → [blog](http://id.fnshr.info/category/stats/r/)
 
