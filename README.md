@@ -1,10 +1,10 @@
 # R learning materials
 
-## compete notes
+## Compete notes
 
 [R for Data Science *****](http://r4ds.had.co.nz/index.html)
 
-[Advanced R](http://adv-r.had.co.nz/)
+[Advanced R ***](http://adv-r.had.co.nz/)
 
 [Technical Foundations of Informatics ****](https://info201.github.io/)
 
@@ -20,24 +20,23 @@
 
 ## Blogs in Japanese
 
-[[R] 回帰分析で適切な方法を使わないとどうなるか (時系列編) ***](http://ill-identified.hatenablog.com/entry/2015/05/11/221645) → blog: http://ill-identified.hatenablog.com/archive/category/R
+[[R] 回帰分析で適切な方法を使わないとどうなるか (時系列編) ***](http://ill-identified.hatenablog.com/entry/2015/05/11/221645) → [blog](http://ill-identified.hatenablog.com/archive/category/R)
 
-[グラフ描画ggplot2の辞書的まとめ20のコード ***](https://mrunadon.github.io/ggplot2/) → blog: https://mrunadon.github.io/
+[グラフ描画ggplot2の辞書的まとめ20のコード ***](https://mrunadon.github.io/ggplot2/) → [blog](https://mrunadon.github.io/)
 
-[［RStan］多項ロジスティックモデルで μ's とAqours の人気の差を調べる ***](http://abrahamcow.hatenablog.com/entry/2017/06/24/154902) → blog: http://abrahamcow.hatenablog.com/archive/category/R
+[［RStan］多項ロジスティックモデルで μ's とAqours の人気の差を調べる ***](http://abrahamcow.hatenablog.com/entry/2017/06/24/154902) → [blog]( http://abrahamcow.hatenablog.com/archive/category/R)
 
-[ビジネス実務の現場で有用な統計学・機械学習・データマイニング及びその他のデータ分析手法10+2選（2016年版） ***](https://tjo.hatenablog.com/entry/2016/03/07/080000) [実務の現場に多い時系列データ分析の際に注意しておきたい点を列挙してみる](https://tjo.hatenablog.com/entry/2017/09/22/190000) → blog: https://tjo.hatenablog.com/archive/category/R
+[ビジネス実務の現場で有用な統計学・機械学習・データマイニング及びその他のデータ分析手法10+2選（2016年版） ***](https://tjo.hatenablog.com/entry/2016/03/07/080000) [実務の現場に多い時系列データ分析の際に注意しておきたい点を列挙してみる](https://tjo.hatenablog.com/entry/2017/09/22/190000) → [blog](https://tjo.hatenablog.com/archive/category/R)
 
 [［RStan］多項ロジスティックモデルで μ's とAqours の人気の差を調べる ***](http://abrahamcow.hatenablog.com/entry/2017/06/24/154902) → blog: http://abrahamcow.hatenablog.com/archive/category/R 
 
-[Rによるデータクリーニング実践――政府統計からのグラフ作成を例として](http://id.fnshr.info/2018/04/23/r-data-cleaning-school/) → blog: http://id.fnshr.info/category/stats/r/
+[Rによるデータクリーニング実践――政府統計からのグラフ作成を例として](http://id.fnshr.info/2018/04/23/r-data-cleaning-school/) → [blog](http://id.fnshr.info/category/stats/r/)
 
-[ggplot2 2.3.0（RC版）を使ってみた ***](https://notchained.hatenablog.com/entry/2018/05/27/190740) → blog: https://notchained.hatenablog.com/archive/category/R
+[ggplot2 2.3.0（RC版）を使ってみた ***](https://notchained.hatenablog.com/entry/2018/05/27/190740) → [blog](https://notchained.hatenablog.com/archive/category/R)
 
-[R Markdown入門はじめに ***](https://kazutan.github.io/kazutanR/Rmd_intro.html) → notes: https://kazutan.github.io/kazutanR/index.html
+[R Markdown入門はじめに ***](https://kazutan.github.io/kazutanR/Rmd_intro.html) → [notes](https://kazutan.github.io/kazutanR/index.html)
 
-[Python と R の違い・関数の対応表
-](https://pythondatascience.plavox.info/python%E3%81%A8r%E3%81%AE%E9%81%95%E3%81%84)
+[Python と R の違い・関数の対応表](https://pythondatascience.plavox.info/python%E3%81%A8r%E3%81%AE%E9%81%95%E3%81%84)
 
 ## Plotting
 
@@ -74,7 +73,7 @@
 [Easy sample data available in R packages (and related)](https://gist.github.com/zross/6f1b1569512be06f5fb571cc425202bc)
 
 ---
-## some materials in chinese
+## Some materials in chinese
 
 [R入门笔记（1）——基本操作总览（1）](https://zhuanlan.zhihu.com/p/28384445) → [2](https://zhuanlan.zhihu.com/p/28400693) [3](https://zhuanlan.zhihu.com/p/28470207) [4](https://zhuanlan.zhihu.com/p/28845574) [5](https://zhuanlan.zhihu.com/p/28879551) [6](https://zhuanlan.zhihu.com/p/29028260)
 
