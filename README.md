@@ -64,13 +64,15 @@
 
 ## Various
 
-[Create Awesome LaTeX Table with knitr::kable and kableExtra](http://haozhu233.github.io/kableExtra/awesome_table_in_pdf.pdf) (Create Awesome HTML Table with knitr::kable and kableExtra)[https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html]
+[Create Awesome LaTeX Table with knitr::kable and kableExtra](http://haozhu233.github.io/kableExtra/awesome_table_in_pdf.pdf) [Create Awesome HTML Table with knitr::kable and kableExtra](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html)
 
 [RSTUDIOアドイン 10選](http://blog.hoxo-m.com/2017/05/10/rstudio_addins_selections/)
 
 [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
 
 [Easy sample data available in R packages (and related)](https://gist.github.com/zross/6f1b1569512be06f5fb571cc425202bc)
+
+[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 
 ---
 ## Some materials in chinese
