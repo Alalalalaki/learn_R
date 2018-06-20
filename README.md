@@ -12,6 +12,10 @@
 
 [To R from Stata: An Introduction](https://rslbliss.shinyapps.io/R_from_Stata/#section-introduction-to-the-tutorial)
 
+[Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/) [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
+
+[YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/) [An Introduction to Statistical and Data Sciences via R](http://moderndive.com/)
+
 ## Books
 
 [A Handbook of Statistical Analyses Using R *](http://www.ecostat.unical.it/tarsitano/Didattica/LabStat2/Everitt.pdf)
@@ -42,10 +46,11 @@
 
 [ggplot2再入門](https://speakerdeck.com/yutannihilation/ggplot2zai-ru-men) [痒い所に手が届く、ggplot2作図の技](https://htmlpreview.github.io/?https://github.com/uribo/talk_180530_ggplot2_tips/blob/master/slide.html)
 
-
 ## Econometrics
 
 [r-econometrics *](https://www.r-econometrics.com/)
+
+[Advanced Statistical Computing **](https://bookdown.org/rdpeng/advstatcomp/)
 
 [Time Series Analysis in R Part 1: The Time Series Object](https://datascienceplus.com/time-series-analysis-in-r-part-1-the-time-series-object/)
 
@@ -55,24 +60,33 @@
 
 [p-values and the likelihood ratio test](http://www.ling.uni-potsdam.de/~vasishth/slog/pvallike.html)
 
+[A short course on nonparametric curve estimation](https://bookdown.org/egarpor/nonpar-eafit/)
+
 ## Packages
 
 [dygraphs: provides rich facilities for charting time-series data](https://rstudio.github.io/dygraphs/index.html)
 
 [janitor: simple functions for examining and cleaning dirty data](http://sfirke.github.io/janitor/)
 
+## R markdown
 
-## Various
+[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+
+[bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/) 
+
+[R bookdownplus Textbook](https://bookdown.org/baydap/bookdownplus/)
+
+[blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
 
 [Create Awesome LaTeX Table with knitr::kable and kableExtra](http://haozhu233.github.io/kableExtra/awesome_table_in_pdf.pdf) [Create Awesome HTML Table with knitr::kable and kableExtra](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html)
 
-[RSTUDIOアドイン 10選](http://blog.hoxo-m.com/2017/05/10/rstudio_addins_selections/)
+## Various
 
-[bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
+[RSTUDIOアドイン 10選](http://blog.hoxo-m.com/2017/05/10/rstudio_addins_selections/)
 
 [Easy sample data available in R packages (and related)](https://gist.github.com/zross/6f1b1569512be06f5fb571cc425202bc)
 
-[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+[Text Mining with R](https://www.tidytextmining.com/)
 
 ---
 ## Some materials in chinese
