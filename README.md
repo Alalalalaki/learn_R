@@ -14,9 +14,9 @@
 
 ## Books
 
-[A Handbook of Statistical Analyses Using R](http://www.ecostat.unical.it/tarsitano/Didattica/LabStat2/Everitt.pdf)
+[A Handbook of Statistical Analyses Using R *](http://www.ecostat.unical.it/tarsitano/Didattica/LabStat2/Everitt.pdf)
 
-[ggplot2 Elegant graphics for data analysis](http://moderngraphics11.pbworks.com/f/ggplot2-Book09hWickham.pdf)
+[ggplot2 Elegant graphics for data analysis *](http://moderngraphics11.pbworks.com/f/ggplot2-Book09hWickham.pdf)
 
 ## Blogs in Japanese
 
@@ -46,6 +46,8 @@
 ## Econometrics
 
 [r-econometrics *](https://www.r-econometrics.com/)
+
+[Time Series Analysis in R Part 1: The Time Series Object](https://datascienceplus.com/time-series-analysis-in-r-part-1-the-time-series-object/)
 
 [Nonlinear Gmm with R - Example with a logistic regression](http://www.brodrigues.co/blog/2013-11-07-gmm-with-rmd/)
 
