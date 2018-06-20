@@ -28,7 +28,7 @@
 
 [ビジネス実務の現場で有用な統計学・機械学習・データマイニング及びその他のデータ分析手法10+2選（2016年版） ***](https://tjo.hatenablog.com/entry/2016/03/07/080000) [実務の現場に多い時系列データ分析の際に注意しておきたい点を列挙してみる](https://tjo.hatenablog.com/entry/2017/09/22/190000) → [blog](https://tjo.hatenablog.com/archive/category/R)
 
-[［RStan］多項ロジスティックモデルで μ's とAqours の人気の差を調べる ***](http://abrahamcow.hatenablog.com/entry/2017/06/24/154902) → blog: http://abrahamcow.hatenablog.com/archive/category/R 
+[［RStan］多項ロジスティックモデルで μ's とAqours の人気の差を調べる ***](http://abrahamcow.hatenablog.com/entry/2017/06/24/154902) → [blog](http://abrahamcow.hatenablog.com/archive/category/R)
 
 [Rによるデータクリーニング実践――政府統計からのグラフ作成を例として](http://id.fnshr.info/2018/04/23/r-data-cleaning-school/) → [blog](http://id.fnshr.info/category/stats/r/)
 
@@ -89,6 +89,6 @@
 
 [Markdown + R 可以替代 LaTeX 完成论文写作吗？](https://www.zhihu.com/question/22420173)
 
-[原]深入对比数据科学工具箱：Python和R 非结构化数据的结构化](https://segmentfault.com/a/1190000005750424) [[原]深入对比数据科学工具箱：Python和R之争[2016版]](https://segmentfault.com/a/1190000006192305) [[原]深入对比数据科学工具箱：Python和R 的 Web 编辑器](https://segmentfault.com/a/1190000004621068#articleHeader10) [R 和 Python (numpy scipy pandas) 用于统计学分析，哪个更好？](https://www.zhihu.com/question/20388507) [Python和R：学哪个好？](https://segmentfault.com/a/1190000012198909)
+[原 深入对比数据科学工具箱：Python和R 非结构化数据的结构化](https://segmentfault.com/a/1190000005750424) [[原]深入对比数据科学工具箱：Python和R之争[2016版]](https://segmentfault.com/a/1190000006192305) [[原]深入对比数据科学工具箱：Python和R 的 Web 编辑器](https://segmentfault.com/a/1190000004621068#articleHeader10) [R 和 Python (numpy scipy pandas) 用于统计学分析，哪个更好？](https://www.zhihu.com/question/20388507) [Python和R：学哪个好？](https://segmentfault.com/a/1190000012198909)
 
 [R语言数据分析与可视化 **](https://zhuanlan.zhihu.com/EasyCharts-R)
