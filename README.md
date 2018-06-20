@@ -92,3 +92,5 @@
 [原 深入对比数据科学工具箱：Python和R 非结构化数据的结构化](https://segmentfault.com/a/1190000005750424) [[原]深入对比数据科学工具箱：Python和R之争[2016版]](https://segmentfault.com/a/1190000006192305) [[原]深入对比数据科学工具箱：Python和R 的 Web 编辑器](https://segmentfault.com/a/1190000004621068#articleHeader10) [R 和 Python (numpy scipy pandas) 用于统计学分析，哪个更好？](https://www.zhihu.com/question/20388507) [Python和R：学哪个好？](https://segmentfault.com/a/1190000012198909)
 
 [R语言数据分析与可视化 **](https://zhuanlan.zhihu.com/EasyCharts-R)
+
+[Use ggplot2](https://guangchuangyu.github.io/cn/2014/05/use-ggplot2/) → [blog](https://guangchuangyu.github.io/cn/tags/ggplot2/page/6/)
