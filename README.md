@@ -114,3 +114,5 @@
 [R语言数据分析与可视化 **](https://zhuanlan.zhihu.com/EasyCharts-R)
 
 [Use ggplot2](https://guangchuangyu.github.io/cn/2014/05/use-ggplot2/) → [blog](https://guangchuangyu.github.io/cn/tags/ggplot2/page/6/)
+
+[ggplot2入门与进阶（上）](http://www.cellyse.com/how_to_use_gggplot2_part1/)
