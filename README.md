@@ -42,7 +42,7 @@
 
 ## Plotting
 
-[from Data to Viz](https://www.data-to-viz.com/index.html#line)
+[from Data to Viz **](https://www.data-to-viz.com/index.html#line)
 
 [Rgraphics **](http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html)
 
