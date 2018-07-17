@@ -42,6 +42,8 @@
 
 ## Plotting
 
+[from Data to Viz](https://www.data-to-viz.com/index.html#line)
+
 [Rgraphics **](http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html)
 
 [Learn to visualize your data like an expert with these practical how-tos for presentation, analysis, and understanding](http://flowingdata.com/category/tutorials/)
