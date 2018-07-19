@@ -72,6 +72,8 @@
 
 [janitor: simple functions for examining and cleaning dirty data](http://sfirke.github.io/janitor/)
 
+[Introduction to summarytools](https://cran.r-project.org/web/packages/summarytools/vignettes/Introduction.html)
+
 ## R markdown
 
 [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
