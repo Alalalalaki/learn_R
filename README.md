@@ -22,6 +22,8 @@
 
 [ggplot2 Elegant graphics for data analysis *](http://moderngraphics11.pbworks.com/f/ggplot2-Book09hWickham.pdf)
 
+[Data Visualization A practical introduction](http://socviz.co/index.html#preface)
+
 ## Blogs in Japanese
 
 [[R] 回帰分析で適切な方法を使わないとどうなるか (時系列編) ***](http://ill-identified.hatenablog.com/entry/2015/05/11/221645) → [blog](http://ill-identified.hatenablog.com/archive/category/R)
