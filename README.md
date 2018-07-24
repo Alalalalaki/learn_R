@@ -12,10 +12,6 @@
 
 [To R from Stata: An Introduction](https://rslbliss.shinyapps.io/R_from_Stata/#section-introduction-to-the-tutorial)
 
-[Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/) / [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
-
-[YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/) / [An Introduction to Statistical and Data Sciences via R](http://moderndive.com/)
-
 [Data Visualization A practical introduction***](http://socviz.co/index.html#preface)
 
 ## Books
@@ -23,6 +19,10 @@
 [A Handbook of Statistical Analyses Using R *](http://www.ecostat.unical.it/tarsitano/Didattica/LabStat2/Everitt.pdf)
 
 [ggplot2 Elegant graphics for data analysis *](http://moderngraphics11.pbworks.com/f/ggplot2-Book09hWickham.pdf)
+
+[Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/) / [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
+
+[YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/) / [An Introduction to Statistical and Data Sciences via R](http://moderndive.com/)
 
 ## Blogs in Japanese
 
