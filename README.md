@@ -40,8 +40,6 @@
 
 [R Markdown入門はじめに ***](https://kazutan.github.io/kazutanR/Rmd_intro.html) → [notes](https://kazutan.github.io/kazutanR/index.html)
 
-[Python と R の違い・関数の対応表](https://pythondatascience.plavox.info/python%E3%81%A8r%E3%81%AE%E9%81%95%E3%81%84)
-
 ## Plotting
 
 [from Data to Viz **](https://www.data-to-viz.com/index.html#line)
@@ -99,6 +97,9 @@
 ## learn R by Python
 
 [Rユーザー向け Pythonデータ処理入門](https://qiita.com/takaiyuk/items/4cb1708a3f886b3d2043)
+
+[Python と R の違い・関数の対応表](https://pythondatascience.plavox.info/python%E3%81%A8r%E3%81%AE%E9%81%95%E3%81%84)
+
 
 ---
 ## Some materials in chinese
