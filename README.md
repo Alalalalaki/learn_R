@@ -94,6 +94,8 @@
 
 [Text Mining with R](https://www.tidytextmining.com/)
 
+[Quantatitive Social Science: The R Tidyverse Code](https://jrnold.github.io/qss-tidy/)
+
 ## learn R by Python
 
 [Rユーザー向け Pythonデータ処理入門](https://qiita.com/takaiyuk/items/4cb1708a3f886b3d2043)
