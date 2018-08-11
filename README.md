@@ -66,6 +66,8 @@
 
 [A short course on nonparametric curve estimation](https://bookdown.org/egarpor/nonpar-eafit/)
 
+[生存時間分析の色々なアルゴリズムをまとめてみました](https://qiita.com/saltcooky/items/409329485be499a5b270)
+
 ## Packages
 
 [dygraphs: provides rich facilities for charting time-series data](https://rstudio.github.io/dygraphs/index.html)
