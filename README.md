@@ -40,6 +40,8 @@
 
 [R Markdown入門はじめに ***](https://kazutan.github.io/kazutanR/Rmd_intro.html) → [notes](https://kazutan.github.io/kazutanR/index.html)
 
+[useR! 2018 メモ (1) Tutorial](http://hoxo-m.hatenablog.com/entry/2018/07/13/135241)
+
 ## Plotting
 
 [from Data to Viz **](https://www.data-to-viz.com/index.html#line)
