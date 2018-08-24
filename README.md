@@ -94,6 +94,8 @@
 
 [RSTUDIOアドイン 10選](http://blog.hoxo-m.com/2017/05/10/rstudio_addins_selections/)
 
+[アカデミアのためのRSTUDIO](https://ytake2.github.io/create.manuscript/RStudio_for_Academia.html)
+
 [Easy sample data available in R packages (and related)](https://gist.github.com/zross/6f1b1569512be06f5fb571cc425202bc)
 
 [Text Mining with R](https://www.tidytextmining.com/)
