@@ -54,6 +54,8 @@
 
 ## Econometrics
 
+[Introductory Econometrics Examples](https://cran.r-project.org/web/packages/wooldridge/vignettes/Introductory-Econometrics-Examples.html)
+
 [r-econometrics *](https://www.r-econometrics.com/)
 
 [Advanced Statistical Computing **](https://bookdown.org/rdpeng/advstatcomp/)
