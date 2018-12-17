@@ -42,11 +42,15 @@
 
 [useR! 2018 メモ (1) Tutorial](http://hoxo-m.hatenablog.com/entry/2018/07/13/135241)
 
+[Rで学ぶベイズ統計学](http://rtokei.tech/category/bayesian-inference/)
+
 ## Plotting
 
 [from Data to Viz **](https://www.data-to-viz.com/index.html#line)
 
 [Rgraphics **](http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html)
+
+[DataWrangling~ggplot Gallery~](http://rtokei.tech/datawrangling/datawranglingggplot-gallery/)
 
 [Learn to visualize your data like an expert with these practical how-tos for presentation, analysis, and understanding](http://flowingdata.com/category/tutorials/)
 
