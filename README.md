@@ -84,7 +84,7 @@
 
 [Introduction to summarytools](https://cran.r-project.org/web/packages/summarytools/vignettes/Introduction.html)
 
-[panelView: Visualizing Panel Data with Dichotomous Treatments](http://yiqingxu.org/software/panelView/panelView.html)
+[panelView: Visualizing Panel Data with Dichotomous Treatments](http://yiqingxu.org/software/panelView/panelView.html) + [gsynth: Generalized Synthetic Control Method](http://yiqingxu.org/software/gsynth/gsynth_examples.html)
 
 ## R markdown
 
