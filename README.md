@@ -84,6 +84,8 @@
 
 [Introduction to summarytools](https://cran.r-project.org/web/packages/summarytools/vignettes/Introduction.html)
 
+[panelView: Visualizing Panel Data with Dichotomous Treatments](http://yiqingxu.org/software/panelView/panelView.html)
+
 ## R markdown
 
 [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
