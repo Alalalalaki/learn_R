@@ -74,6 +74,8 @@
 
 [A short course on nonparametric curve estimation](https://bookdown.org/egarpor/nonpar-eafit/)
 
+[Topics in Econometrics: Advances in Causality and Foundations of Machine Learning](https://maxkasy.github.io/home/TopicsInEconometrics2019/)
+
 [生存時間分析の色々なアルゴリズムをまとめてみました](https://qiita.com/saltcooky/items/409329485be499a5b270)
 
 ## Packages
