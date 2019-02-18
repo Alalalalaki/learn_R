@@ -118,6 +118,9 @@
 
 [Python と R の違い・関数の対応表](https://pythondatascience.plavox.info/python%E3%81%A8r%E3%81%AE%E9%81%95%E3%81%84)
 
+## Some slides
+
+[Welcome to the tidyverse](https://speakerdeck.com/hadley/welcome-to-the-tidyverse)
 
 ---
 ## Some materials in chinese
